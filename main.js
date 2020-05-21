@@ -10,6 +10,7 @@
     { c: "まあ普通でしょ", a: "もっと精進します。" }
   ];
   let currentNum = 0;
+  
 
   const que = document.querySelector("#que");
   const modalText = document.querySelector("#modal-text");
